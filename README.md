@@ -1,6 +1,8 @@
-# SolarWolf
+# SolarWolf ME
 
-Spaceship survival game for Java mobiles based on: [SolarWolf python edition](#) and [SolarFox](#)
+Spaceship survival game for Java mobiles based on: [SolarWolf python edition](#) and [SolarFox](#).
+
+Although the code is awful I'm publishing it because I have a certain affection since it was my first "big" project. Don't judge me for this monster :)
 
 ![Title](/src/images/titulo.png)
 
